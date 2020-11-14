@@ -43,7 +43,14 @@
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/postgresql.png" height="32" />
 </p>
 <p>
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/node.png" height="32" />
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/reactjs.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/angular.png" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/vue.png" height="32" />
+</p>
+<p>
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/java.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/php.png" height="32" />
 </p>
 <p>
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="32" />
