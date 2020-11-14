@@ -35,7 +35,7 @@
 - :relaxed: Personal life: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 - :brazil: Living in Brazil
 </p>
-
+<!--
 <b>Technologies</b> :floppy_disk:
 <p>
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="32" />
@@ -57,7 +57,7 @@
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/css3.svg" height="32" />
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/js.png" height="32" />
 </p>
-<!--
+
 **geraldofranca/geraldofranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
