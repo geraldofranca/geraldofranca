@@ -38,9 +38,8 @@ A little about myself :man:
 
 Technologies :floppy_disk:
 <p>
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="48" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="48" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="48" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="32" />
  </p>
 <!--
 **geraldofranca/geraldofranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
