@@ -40,6 +40,9 @@ Technologies :floppy_disk:
 <p>
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="32" />
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/reactjs.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mysql.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/postgresql.png" height="32" />
  </p>
 <!--
 **geraldofranca/geraldofranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
