@@ -27,7 +27,7 @@
 </p>
 -->
 <p>
-A little about myself :man:
+<b>A little about myself</b> :man:
 
 - :rocket: Full Stack Developer
 - :office: Currently I work at Sicoob for Mirante using Node, Angular and MongoDB.
@@ -36,14 +36,20 @@ A little about myself :man:
 - :brazil: Living in Brazil
 </p>
 
-Technologies :floppy_disk:
+<b>Technologies</b> :floppy_disk:
 <p>
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="32" />
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/reactjs.svg" height="32" />
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mysql.svg" height="32" />
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/postgresql.png" height="32" />
- </p>
+</p>
+<p>
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/reactjs.svg" height="32" />
+</p>
+<p>
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/css3.svg" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/js.png" height="32" />
+</p>
 <!--
 **geraldofranca/geraldofranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
