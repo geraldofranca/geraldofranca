@@ -1,13 +1,13 @@
 ### Hi there :wave:! I'm Geraldo França
 <p>
-<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+<img src="https://img.icons8.com/fluent/32/000000/gmail--v2.png"/>
 <a href="https://www.linkedin.com/in/geraldo-franca" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/>
 </a>
-<img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
+<img src="https://img.icons8.com/fluent/32/000000/whatsapp.png"/>
+<img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/>
 <a href="https://www.instagram.com/tecnologiasimplificada" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  <img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/>
 </a>
 <!--
 <a href="https://www.linkedin.com/in/geraldo-franca" target="_blank">
@@ -38,19 +38,19 @@
 <!--
 <b>Technologies</b> :floppy_disk:
 <p>
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mysql.svg" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/postgresql.png" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" heigth="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mysql.svg" heigth="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/postgresql.png" heigth="32" />
 </p>
 <p>
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/node.png" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/reactjs.svg" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/angular.png" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/vue.png" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/node.png" heigth="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/reactjs.svg" heigth="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/angular.png" heigth="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/vue.png" heigth="32" />
 </p>
 <p>
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/java.svg" height="32" />
-  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/php.png" height="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/java.svg" heigth="32" />
+  <img src="https://github.com/geraldofranca/geraldofranca/blob/main/php.png" heigth="32" />
 </p>
 <p>
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/html5.svg" height="32" />
