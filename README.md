@@ -33,9 +33,9 @@
 - :office: Currently I work at Sicoob for Mirante using Node, Angular and MongoDB.
 - :school_satchel: I am a Go Stack 14 student at Rocketseat, improving my knowledge in ReactJS and React Native.
 - :relaxed: Personal life: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
-- :brazil: Living in Brazil
 </p>
 <!--
+- :brazil: Living in Brazil
 <b>Technologies</b> :floppy_disk:
 <p>
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" heigth="32" />
