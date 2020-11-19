@@ -35,11 +35,34 @@
 - :relaxed: Personal life: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
 <p>
-<b>Languages</>
-
-<img src="https://img.icons8.com/color/24/000000/php.png"/>
-<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/24/000000/javascript.png"/>
+<b>Languages </b>
+  <p>
+    <img src="https://img.icons8.com/color/32/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/32/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/32/000000/javascript.png"/>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/32/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/32/000000/angularjs.png"/>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/32/000000/visual-studio.png"/>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/32/000000/github--v1.png"/>
+    <img src="https://img.icons8.com/color/32/000000/heroku.png"/>
+    <img src="https://img.icons8.com/color/32/000000/travis-ci.png"/>
+    <img src="https://img.icons8.com/color/32/000000/npm.png"/>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/32/000000/php.png"/>
+    <img src="https://img.icons8.com/color/32/000000/asp.png"/>
+    <img src="https://img.icons8.com/color/32/000000/vb.png"/>
+  </p>
 </p>
 <!--
 - :brazil: Living in Brazil
