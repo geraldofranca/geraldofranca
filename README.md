@@ -42,11 +42,11 @@
     <img src="https://img.icons8.com/color/24/000000/javascript.png"/>
   </p>
   <p>
-    <img src="https://img.icons8.com/color/24/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/32/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/24/000000/angularjs.png"/>
   </p>
   <p>
-    <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/>
   </p>
   <p>
     <img src="https://img.icons8.com/color/24/000000/visual-studio.png"/>
