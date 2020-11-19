@@ -35,7 +35,7 @@
 - :relaxed: Personal life: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
 <p>
-<b>Languages </b>
+<b>Languages and Tools:</b>
   <p>
     <img src="https://img.icons8.com/color/32/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/32/000000/css3.png"/>
