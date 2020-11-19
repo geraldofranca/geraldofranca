@@ -34,6 +34,13 @@
 - :school_satchel: I am a Go Stack 14 student at Rocketseat, improving my knowledge in ReactJS and React Native.
 - :relaxed: Personal life: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
+<p>
+<b>Languages</>
+
+<img src="https://img.icons8.com/color/24/000000/php.png"/>
+<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/24/000000/javascript.png"/>
+</p>
 <!--
 - :brazil: Living in Brazil
 <b>Technologies</b> :floppy_disk:
