@@ -1,6 +1,6 @@
 ### Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 <p>
-  Minha experiência é maior como desenvolvedor backend. Mas há alguns já trabalho como desenvolvedor full stack. Gosto muito de estudar novas tecnologias e aprofundar sempre o conhecimento nas que já tenho mais experiência. Programar sempre foi a única opção que quis como carreira, e felizmente faço o que gosto.
+  Minha experiência é maior como desenvolvedor backend. Mas há alguns anos já trabalho como desenvolvedor full stack. Gosto muito de estudar novas tecnologias e aprofundar sempre o conhecimento nas que já tenho mais experiência. Programar sempre foi a única opção que quis como carreira, e felizmente faço o que gosto.
 </p>
 <!--
 <a href="https://www.linkedin.com/in/geraldo-franca" target="_blank">
