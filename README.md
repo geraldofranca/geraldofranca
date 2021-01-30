@@ -31,6 +31,8 @@
 
 ### Honestidade em pequenas coisas não é uma coisa pequena.
 
+**Uma dica:** Crie projetos para ficar mais fácil de visualizar os repositórios. Vá até a tab Projects para visualizar melhor. 😄
+
 <!--
 <p>
 <b>Languages and Tools:</b>
