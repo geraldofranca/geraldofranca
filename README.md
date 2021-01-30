@@ -1,14 +1,7 @@
-### Hi there :wave:! I'm Geraldo França
+### Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 <p>
-<img src="https://img.icons8.com/fluent/32/000000/gmail--v2.png"/>
-<a href="https://www.linkedin.com/in/geraldo-franca" target="_blank">
-  <img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/>
-</a>
-<img src="https://img.icons8.com/fluent/32/000000/whatsapp.png"/>
-<img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/>
-<a href="https://www.instagram.com/tecnologiasimplificada" target="_blank">
-  <img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/>
-</a>
+  Minha experiência é maior como desenvolvedor backend. Mas há alguns já trabalho como desenvolvedor full stack. Gosto muito de estudar novas tecnologias e aprofundar sempre o conhecimento nas que já tenho mais experiência. Programar sempre foi a única opção que quis como carreira, e felizmente faço o que gosto.
+</p>
 <!--
 <a href="https://www.linkedin.com/in/geraldo-franca" target="_blank">
 <img src="https://camo.githubusercontent.com/b0cf43e08b70097c6e8777eb14ff191f211bf14278aacc87c255f69d7761cab5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
@@ -27,13 +20,18 @@
 </p>
 -->
 <p>
-<b>A little about myself</b> :man:
+<b>Um pouco mais sobre mim</b> :man:
 
 - :rocket: Full Stack Developer
-- :office: Currently I work at Sicoob for Mirante using Node, Angular and MongoDB.
-- :school_satchel: I am a Go Stack 14 student at Rocketseat, improving my knowledge in ReactJS and React Native.
-- :relaxed: Personal life: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
+- :office: Atualmente trabalho na Ília com Angular e Java e fico no cliente BB Prev.
+- :school_satchel: Eu sou um estudante Go Stack 14 na Rocketseat, aprimorando meus conhecimentos em NodeJS, ReactJS e React Native.
+- :brazil: Ainda morando no Brasil
+- :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
+
+### Honestidade em pequenas coisas não é uma coisa pequena.
+
+<!--
 <p>
 <b>Languages and Tools:</b>
   <p>
@@ -64,8 +62,7 @@
     <img src="https://img.icons8.com/color/24/000000/vb.png"/>
   </p>
 </p>
-<!--
-- :brazil: Living in Brazil
+
 <b>Technologies</b> :floppy_disk:
 <p>
   <img src="https://github.com/geraldofranca/geraldofranca/blob/main/mongodb.svg" heigth="32" />
