@@ -30,6 +30,7 @@
 </p>
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
+#### Sugestão de leitura: Código Limpo de Robert C. Martin
 
 **Uma dica:** Criei projetos para ficar mais fácil de visualizar os repositórios. Vá até a tab Projects para visualizar melhor. 😄
 
