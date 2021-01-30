@@ -29,9 +29,9 @@
 - :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
 
-### Honestidade em pequenas coisas não é uma coisa pequena.
+### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
 
-**Uma dica:** Crie projetos para ficar mais fácil de visualizar os repositórios. Vá até a tab Projects para visualizar melhor. 😄
+**Uma dica:** Criei projetos para ficar mais fácil de visualizar os repositórios. Vá até a tab Projects para visualizar melhor. 😄
 
 <!--
 <p>
