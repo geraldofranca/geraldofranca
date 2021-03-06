@@ -51,9 +51,9 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-0f7dc2?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com/)](https://img.shields.io/badge/-Laravel-0f7dc2?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com/)
 [![Zend Badge](https://img.shields.io/badge/-Zend-0f7dc2?style=flat-square&logo=Zend&logoColor=white&link=https://framework.zend.com/)](https://img.shields.io/badge/-Zend-0f7dc2?style=flat-square&logo=Zend&logoColor=white&link=https://framework.zend.com/)
 
-[![Mongo Badge](https://img.shields.io/badge/-MongoDB-0f7dc2?style=flat-square&logo=Mongodb&logoColor=white&link=https://www.mongodb.com/)](https://img.shields.io/badge/-MongoDB-0f7dc2?style=flat-square&logo=Mongodb&logoColor=white&link=https://www.mongodb.com/)
-[![Postgresql Badge](https://img.shields.io/badge/-PostgreSQL-0f7dc2?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://img.shields.io/badge/-PostgreSQL-0f7dc2?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)
-
+[![Mongo Badge](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=Mongodb&logoColor=black&link=https://www.mongodb.com/)](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=Mongodb&logoColor=black&link=https://www.mongodb.com/)
+[![Postgresql Badge](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql&logoColor=black&link=https://www.postgresql.org/)](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&logoColor=black&link=https://www.mysql.com/)](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&logoColor=black&link=https://www.mysql.com/)
 
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
