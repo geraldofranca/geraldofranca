@@ -42,6 +42,7 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 [![JS Badge](https://img.shields.io/badge/-Javascript-0f7dc2?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Javascript-0f7dc2?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-0f7dc2?style=flat-square&logo=Typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://img.shields.io/badge/-Typescript-0f7dc2?style=flat-square&logo=Typescript&logoColor=white&link=https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/-React-0f7dc2?style=flat-square&logo=React&logoColor=white&link=https://pt-br.reactjs.org/)](https://img.shields.io/badge/-React-0f7dc2?style=flat-square&logo=React&logoColor=white&link=https://pt-br.reactjs.org/)
+[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-0f7dc2?style=flat-square&logo=react-native&logoColor=white&link=https://pt-br.reactjs.org/)](https://img.shields.io/badge/-React%20Native-0f7dc2?style=flat-square&logo=react-native&logoColor=white&link=https://pt-br.reactjs.org/)
 [![Angular Badge](https://img.shields.io/badge/-Angular-0f7dc2?style=flat-square&logo=Angular&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Angular-0f7dc2?style=flat-square&logo=Angular&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 [![Node Badge](https://img.shields.io/badge/-NodeJS-0f7dc2?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://img.shields.io/badge/-NodeJS-0f7dc2?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)
@@ -54,7 +55,17 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 [![Mongo Badge](https://img.shields.io/badge/-MongoDB-0f7dc2?style=flat-square&logo=Mongodb&logoColor=white&link=https://www.mongodb.com/)](https://img.shields.io/badge/-MongoDB-0f7dc2?style=flat-square&logo=Mongodb&logoColor=black&link=https://www.mongodb.com/)
 [![Postgresql Badge](https://img.shields.io/badge/-PostgreSQL-0f7dc2?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://img.shields.io/badge/-PostgreSQL-0f7dc2?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-0f7dc2?style=flat-square&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://img.shields.io/badge/-MySQL-0f7dc2?style=flat-square&logo=mysql&logoColor=black&link=https://www.mysql.com/)
+[![SQLSERVER Badge](https://img.shields.io/badge/-SQL%20Server-0f7dc2?style=flat-square&logo=sql-server&logoColor=white&link=https://www.mysql.com/)](https://img.shields.io/badge/-SQL%20Server-0f7dc2?style=flat-square&logo=sql-server&logoColor=white&link=https://www.mysql.com/)
+[![ORACLE Badge](https://img.shields.io/badge/-Oracle-0f7dc2?style=flat-square&logo=oracle&logoColor=white&link=https://www.mysql.com/)](https://img.shields.io/badge/-Oracle-0f7dc2?style=flat-square&logo=oracle&logoColor=white&link=https://www.mysql.com/)
 
+[![JEST Badge](https://img.shields.io/badge/-Jest-0f7dc2?style=flat-square&logo=jest&logoColor=white)](https://img.shields.io/badge/-Jest-0f7dc2?style=flat-square&logo=jest&logoColor=white)
+[![JUNIT Badge](https://img.shields.io/badge/-jUNIT-0f7dc2?style=flat-square&logo=junit&logoColor=white)](https://img.shields.io/badge/-jUNIT-0f7dc2?style=flat-square&logo=junit&logoColor=white)
+[![PHPUNIT Badge](https://img.shields.io/badge/-PHP%20Unit-0f7dc2?style=flat-square&logo=phpunit&logoColor=white)](https://img.shields.io/badge/-PHP%20Unit-0f7dc2?style=flat-square&logo=phpunit&logoColor=white)
+
+[![AWS Badge](https://img.shields.io/badge/-AWS-0f7dc2?style=flat-square&logo=aws&logoColor=white)](https://img.shields.io/badge/-AWS-0f7dc2?style=flat-square&logo=aws&logoColor=white)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-0f7dc2?style=flat-square&logo=heroku&logoColor=white)](https://img.shields.io/badge/-Heroku-0f7dc2?style=flat-square&logo=heroku&logoColor=white)
+[![Travis Badge](https://img.shields.io/badge/-Travis%20CI-0f7dc2?style=flat-square&logo=travis&logoColor=white)](https://img.shields.io/badge/-Travis%20CI-0f7dc2?style=flat-square&logo=travis&logoColor=white)
+[![Docker Badge](https://img.shields.io/badge/-Docker-0f7dc2?style=flat-square&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-0f7dc2?style=flat-square&logo=docker&logoColor=white)
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
 #### Sugestão de leitura: Código Limpo de Robert C. Martin
