@@ -1,4 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Geraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-franca/)](https://www.linkedin.com/in/geraldo-franca/) [![Gmail Badge](https://img.shields.io/badge/-geraldo.pereira.franca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geraldo.pereira.franca@gmail.com)](mailto:geraldo.pereira.franca@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-franca/)](https://www.linkedin.com/in/geraldo-franca/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geraldo.pereira.franca@gmail.com)](mailto:geraldo.pereira.franca@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/geraldofranca/)](https://t.me/geraldofranca/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4aae20?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561999661036&text=Ol%C3%A1.%20Vi%20seus%20trabalhos%20no%20Github%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es/)](https://img.shields.io/badge/-WhatsApp-4aae20?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561999661036&text=Ol%C3%A1.%20Vi%20seus%20trabalhos%20no%20Github%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mentorti/)](https://img.shields.io/badge/-Instagram-e1306c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mentorti/)
+
 
 Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 ==========================
@@ -33,6 +37,24 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 
 🛠 Tecnologias
 ==========================
+[![HTML Badge](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+[![CSS Badge](https://img.shields.io/badge/-CSS-0d9ddb?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)](https://img.shields.io/badge/-CSS-0d9ddb?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+[![JS Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-0f7dc2?style=flat-square&logo=Typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://img.shields.io/badge/-Typescript-0f7dc2?style=flat-square&logo=Typescript&logoColor=white&link=https://www.typescriptlang.org/)
+[![React Badge](https://img.shields.io/badge/-React-00d8ff?style=flat-square&logo=React&logoColor=white&link=https://pt-br.reactjs.org/)](https://img.shields.io/badge/-React-00d8ff?style=flat-square&logo=React&logoColor=white&link=https://pt-br.reactjs.org/)
+[![Angular Badge](https://img.shields.io/badge/-Angular-b52e31?style=flat-square&logo=Angular&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Angular-b52e31?style=flat-square&logo=Angular&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+
+[![Node Badge](https://img.shields.io/badge/-NodeJS-215732?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://img.shields.io/badge/-NodeJS-215732?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)
+[![Java Badge](https://img.shields.io/badge/-Java-5fc9f8?style=flat-square&logo=Java&logoColor=white&link=https://java.com/pt-BR/)](https://img.shields.io/badge/-Java-5fc9f8?style=flat-square&logo=Java&logoColor=white&link=https://java.com/pt-BR/)
+[![Spring Badge](https://img.shields.io/badge/-SpringBoot-59cb59?style=flat-square&logo=Spring&logoColor=white&link=https://spring.io/projects/spring-boot/)](https://img.shields.io/badge/-SpringBoot-59cb59?style=flat-square&logo=Spring&logoColor=white&link=https://spring.io/projects/spring-boot/)
+[![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-f55247?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com/)](https://img.shields.io/badge/-Laravel-f55247?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com/)
+[![Zend Badge](https://img.shields.io/badge/-Zend-78a300?style=flat-square&logo=Zend&logoColor=white&link=https://framework.zend.com/)](https://img.shields.io/badge/-Zend-78a300?style=flat-square&logo=Zend&logoColor=white&link=https://framework.zend.com/)
+
+[![Mongo Badge](https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=Mongodb&logoColor=white&link=https://www.mongodb.com/)](https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=Mongodb&logoColor=white&link=https://www.mongodb.com/)
+[![Postgresql Badge](https://img.shields.io/badge/-PostgreSQL-013369?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://img.shields.io/badge/-PostgreSQL-013369?style=flat-square&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)
+
+
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
 #### Sugestão de leitura: Código Limpo de Robert C. Martin
