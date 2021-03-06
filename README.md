@@ -1,4 +1,7 @@
-### Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
+[![Linkedin Badge](https://img.shields.io/badge/-Geraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-franca/)](https://www.linkedin.com/in/geraldo-franca/) [![Gmail Badge](https://img.shields.io/badge/-geraldo.pereira.franca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geraldo.pereira.franca@gmail.com)](mailto:geraldo.pereira.franca@gmail.com)
+
+Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
+==========================
 <p>
   Minha experiência é maior como desenvolvedor backend. Mas há alguns anos já trabalho como desenvolvedor full stack. Gosto muito de estudar novas tecnologias e aprofundar sempre o conhecimento nas que já tenho mais experiência. Programar sempre foi a única opção que quis como carreira, e felizmente faço o que gosto.
 </p>
@@ -24,10 +27,12 @@
 
 - :rocket: Full Stack Developer
 - :office: Atualmente trabalho na Ília com Angular e Java e fico no cliente BB Prev.
-- :school_satchel: Eu sou um estudante Go Stack 14 na Rocketseat, aprimorando meus conhecimentos em NodeJS, ReactJS e React Native.
-- :brazil: Ainda morando no Brasil
+- :school_satchel: Atualmente também estudo Ciência de Dados na Cruzeiro do Sul.
 - :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
+
+🛠 Tecnologias
+==========================
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
 #### Sugestão de leitura: Código Limpo de Robert C. Martin
