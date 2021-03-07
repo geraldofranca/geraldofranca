@@ -6,6 +6,8 @@
 
 Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 ==========================
+<img align="right" alt="GIF" src="https://github.com/geraldofranca/geraldofranca/blob/main/gif4.gif?raw=true" width="500"/>
+
 <p>
   Minha experiência é maior como desenvolvedor backend. Mas há alguns anos já trabalho como desenvolvedor full stack. Gosto muito de estudar novas tecnologias e aprofundar sempre o conhecimento nas que já tenho mais experiência. Programar sempre foi a única opção que quis como carreira, e felizmente faço o que gosto.
 </p>
@@ -37,6 +39,7 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 
 🛠 Tecnologias
 ==========================
+<!--
 [![HTML Badge](https://img.shields.io/badge/-HTML-0f7dc2?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)](https://img.shields.io/badge/-HTML-0f7dc2?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 [![CSS Badge](https://img.shields.io/badge/-CSS-0f7dc2?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)](https://img.shields.io/badge/-CSS-0f7dc2?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 [![JS Badge](https://img.shields.io/badge/-Javascript-0f7dc2?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Javascript-0f7dc2?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
@@ -44,7 +47,6 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 [![React Badge](https://img.shields.io/badge/-React-0f7dc2?style=flat-square&logo=React&logoColor=white&link=https://pt-br.reactjs.org/)](https://img.shields.io/badge/-React-0f7dc2?style=flat-square&logo=React&logoColor=white&link=https://pt-br.reactjs.org/)
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-0f7dc2?style=flat-square&logo=react-native&logoColor=white&link=https://pt-br.reactjs.org/)](https://img.shields.io/badge/-React%20Native-0f7dc2?style=flat-square&logo=react-native&logoColor=white&link=https://pt-br.reactjs.org/)
 [![Angular Badge](https://img.shields.io/badge/-Angular-0f7dc2?style=flat-square&logo=Angular&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Angular-0f7dc2?style=flat-square&logo=Angular&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-
 [![Node Badge](https://img.shields.io/badge/-NodeJS-0f7dc2?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://img.shields.io/badge/-NodeJS-0f7dc2?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)
 [![Java Badge](https://img.shields.io/badge/-Java-0f7dc2?style=flat-square&logo=Java&logoColor=white&link=https://java.com/pt-BR/)](https://img.shields.io/badge/-Java-0f7dc2?style=flat-square&logo=Java&logoColor=white&link=https://java.com/pt-BR/)
 [![Spring Badge](https://img.shields.io/badge/-SpringBoot-0f7dc2?style=flat-square&logo=Spring&logoColor=white&link=https://spring.io/projects/spring-boot/)](https://img.shields.io/badge/-SpringBoot-0f7dc2?style=flat-square&logo=Spring&logoColor=white&link=https://spring.io/projects/spring-boot/)
@@ -66,6 +68,13 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-0f7dc2?style=flat-square&logo=heroku&logoColor=white)](https://img.shields.io/badge/-Heroku-0f7dc2?style=flat-square&logo=heroku&logoColor=white)
 [![Travis Badge](https://img.shields.io/badge/-Travis%20CI-0f7dc2?style=flat-square&logo=travis&logoColor=white)](https://img.shields.io/badge/-Travis%20CI-0f7dc2?style=flat-square&logo=travis&logoColor=white)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0f7dc2?style=flat-square&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-0f7dc2?style=flat-square&logo=docker&logoColor=white)
+-->
+- &nbsp; Node | Java | SpringBoot | PHP | Laravel | Zend
+- &nbsp; HTML | CSS | JS | Typescript | React | React Native | Angular
+- &nbsp; MongoDB | PostgreSQL | MySQL | SQL Server | Oracle
+- &nbsp; Jest | JUnit | PHPUnit
+- &nbsp; AWS | Heroku | Travis | Docker
+
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
 #### Sugestão de leitura: Código Limpo de Robert C. Martin
