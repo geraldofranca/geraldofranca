@@ -32,7 +32,7 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 <b>Um pouco mais sobre mim</b> :man:
 
 - :rocket: Full Stack Developer
-- :office: Atualmente trabalho na Ília com Angular e Java e fico no cliente BB Prev.
+- :office: Atualmente trabalho na Ília com Angular e Java.
 - :school_satchel: Concluindo a graduação em Ciência de Dados na Cruzeiro do Sul.
 - :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
