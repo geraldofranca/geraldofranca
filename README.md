@@ -33,7 +33,7 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 
 - :rocket: Full Stack Developer
 - :office: Atualmente trabalho na Serasa.
-- :school_satchel: Concluindo a graduação em Ciência de Dados na Cruzeiro do Sul.
+- :school_satchel: Graduado em Ciência de Dados.
 - :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
 
