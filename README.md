@@ -34,6 +34,7 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 - :rocket: Full Stack Developer
 - :office: Atualmente trabalho na Serasa.
 - :school_satchel: Graduado em Ciência de Dados.
+- :school_satchel: Pós Graduando em Engenharia de Software.
 - :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
 
