@@ -37,10 +37,10 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 - :school_satchel: Pós Graduando em Engenharia de Software.
 - :relaxed: Vida pessoal: :family: :dog: :runner: :soccer: :movie_camera: :beers: :hamburger: 
 </p>
-
+<!--
 🛠 Tecnologias
 ==========================
-<!--
+
 [![HTML Badge](https://img.shields.io/badge/-HTML-0f7dc2?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)](https://img.shields.io/badge/-HTML-0f7dc2?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 [![CSS Badge](https://img.shields.io/badge/-CSS-0f7dc2?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)](https://img.shields.io/badge/-CSS-0f7dc2?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 [![JS Badge](https://img.shields.io/badge/-Javascript-0f7dc2?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)](https://img.shields.io/badge/-Javascript-0f7dc2?style=flat-square&logo=Javascript&logoColor=white&link=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
@@ -69,18 +69,20 @@ Olá, sou o Geraldo. Obrigado por visitar meu perfil. :wave:
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-0f7dc2?style=flat-square&logo=heroku&logoColor=white)](https://img.shields.io/badge/-Heroku-0f7dc2?style=flat-square&logo=heroku&logoColor=white)
 [![Travis Badge](https://img.shields.io/badge/-Travis%20CI-0f7dc2?style=flat-square&logo=travis&logoColor=white)](https://img.shields.io/badge/-Travis%20CI-0f7dc2?style=flat-square&logo=travis&logoColor=white)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0f7dc2?style=flat-square&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-0f7dc2?style=flat-square&logo=docker&logoColor=white)
--->
+
 - &nbsp; Node | Java | SpringBoot | PHP | Laravel | Zend
 - &nbsp; HTML | CSS | JS | Typescript | React | React Native | Angular
 - &nbsp; MongoDB | PostgreSQL | MySQL | SQL Server | Oracle
 - &nbsp; Jest | JUnit | PHPUnit
 - &nbsp; AWS | Heroku | Travis | Docker
-
+-->
 
 ### Para refletir: Honestidade em pequenas coisas não é uma coisa pequena.
 #### Sugestão de leitura: Código Limpo de Robert C. Martin
 
+<!--
 **Uma dica:** Criei projetos para ficar mais fácil de visualizar os repositórios. Vá até a tab Projects para visualizar melhor. 😄
+-->
 
 <!--
 <p>
